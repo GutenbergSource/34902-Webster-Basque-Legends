@@ -1,0 +1,50 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/brace2.png" filesize="391" filedate="2011-01-08 21:46:30" width="7px" height="40px">
+</image>
+<image path="images/brace3.png" filesize="551" filedate="2011-01-08 21:47:22" width="12px" height="67px">
+</image>
+<image path="images/brace4.png" filesize="811" filedate="2011-01-08 11:16:00" width="18px" height="100px">
+</image>
+<image path="images/brace5.png" filesize="918" filedate="2011-01-08 11:15:39" width="19px" height="120px">
+</image>
+<image path="images/brace9.png" filesize="1422" filedate="2011-01-08 11:14:32" width="20px" height="220px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/frontispiece.jpg" filesize="121744" filedate="2011-01-08 19:11:09" width="478px" height="720px">
+</image>
+<image path="images/head1.png" filesize="32149" filedate="2011-01-08 20:03:54" width="602px" height="153px">
+</image>
+<image path="images/head2.png" filesize="33119" filedate="2011-01-08 20:04:19" width="720px" height="153px">
+</image>
+<image path="images/head3.png" filesize="36099" filedate="2011-01-08 20:05:49" width="720px" height="156px">
+</image>
+<image path="images/head4.png" filesize="33483" filedate="2011-01-08 20:05:05" width="720px" height="158px">
+</image>
+<image path="images/head5.png" filesize="33622" filedate="2011-01-08 20:05:26" width="720px" height="152px">
+</image>
+<image path="images/head6.png" filesize="33439" filedate="2011-01-08 20:04:43" width="720px" height="158px">
+</image>
+<image path="images/head7.png" filesize="33019" filedate="2011-01-08 20:03:25" width="720px" height="153px">
+</image>
+<image path="images/head8.png" filesize="36063" filedate="2011-01-08 20:06:11" width="720px" height="156px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="13499" filedate="2015-12-15 21:50:04" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="62181" filedate="2015-12-15 21:49:35" width="480px" height="720px">
+</image>
+<image path="images/ornament1.png" filesize="13840" filedate="2011-01-08 20:01:53" width="250px" height="227px">
+</image>
+<image path="images/ornament2.png" filesize="6804" filedate="2011-01-08 20:01:28" width="215px" height="141px">
+</image>
+<image path="images/ornament3.png" filesize="16776" filedate="2011-01-08 20:02:41" width="251px" height="260px">
+</image>
+<image path="images/ornament4.png" filesize="10227" filedate="2011-01-08 20:02:19" width="315px" height="155px">
+</image>
+<image path="images/titlepage.png" filesize="62155" filedate="2011-01-08 19:27:59" width="427px" height="720px">
+</image>
+</images>

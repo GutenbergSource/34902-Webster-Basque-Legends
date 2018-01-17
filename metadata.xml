@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Basque Legends</dc:title>
+      <dc:creator>Wentworth Webster (1829–1907)</dc:creator>
+      <dc:creator>Julien Vinson (1843–1926 or 1927)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2011-01-09</dc:publisher>
+      <dc:date>2011-01-09</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+
+ This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+
+ This book was prepared of scans of the second edition, available on the Internet Archive: 1, 2, 3.
+
+ Scans of the first edition: 1, 2, 3, 4, 5.
+
+ An independently created ebook edition is available at Sacred Texts.
+
+ </dc:rights>
+      <dc:subject>Basques -- France Folklore</dc:subject>
+      <dc:subject>Basques -- Folklore</dc:subject>
+      <dc:subject>Tales -- France Pays Basque</dc:subject>
+      <dc:subject>Legends -- France Pays Basque</dc:subject>
+      <dc:subject>Pays Basque (France) -- Social life and customs</dc:subject>
+      <dc:subject>Basque -- Language</dc:subject>
+      <dc:description>A collection of Basque legends, complete with an appendix on the Basque language and Basque poetry. Includes a short bibliography.</dc:description>
+      <dc:identifier>pg:34902</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
